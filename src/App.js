@@ -45,49 +45,4 @@ class App extends Component{
 
 
 
-
-  // this.state = {
-  //   monsters:[
-  //     {
-  //       id:"asc1",
-  //       name: "Leanne Graham"
-  //     },
-  //     {
-  //       id:"asc2",
-  //       name: "Ervin Howell"
-  //     },
-  //     {
-  //       id:"asc3",
-  //       name: "Clementine Bauch"
-  //     },
-  //     {
-  //       id:"asc4",
-  //       name: "Patricia Lebsack"
-  //     },
-  //     {
-  //       id:"asc5",
-  //       name: "Chelsey Dietrich"
-  //     },
-  //     {
-  //       id:"asc6",
-  //       name: "Mrs. Dennis Schulist"
-  //     },
-  //     {
-  //       id:"asc7",
-  //       name: "Kurtis weissnat"
-  //     },
-  //     {
-  //       id:"asc8",
-  //       name: "Nicholas Runolfsdottir V"
-  //     },
-  //     {
-  //       id:"asc9",
-  //       name: "Glenna Reichert"
-  //     },
-  //     {
-  //       id:"asc10",
-  //       name: "Clementina DuBuque"
-  //     },
-  //   ]
-  // }
   
